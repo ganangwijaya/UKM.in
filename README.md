@@ -8,4 +8,4 @@ Dalam program ini terdapat beberapa file:
     3. Folder assets : Merupakan folder yang berisi aset yang digunakan pada program
 
 Terimakasih,
-Ganang Wijaya
+Ganang Wijaya Mantap
